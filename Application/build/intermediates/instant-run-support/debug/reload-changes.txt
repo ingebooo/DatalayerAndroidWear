@@ -1,0 +1,3 @@
+CHANGED,/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/wearable/datalayer/Handheld$SendToDataLayerThread$override.class
+CHANGED,/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/wearable/datalayer/Handheld$override.class
+CHANGED,/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

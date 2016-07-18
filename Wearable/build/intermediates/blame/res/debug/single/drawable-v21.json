@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Wearable/build/intermediates/res/merged/debug/drawable-v21/generic_confirmation.xml",
+        "source": "/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/drawable-v21/generic_confirmation.xml"
+    },
+    {
+        "merged": "/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Wearable/build/intermediates/res/merged/debug/drawable-v21/open_on_phone_animation.xml",
+        "source": "/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/drawable-v21/open_on_phone_animation.xml"
+    },
+    {
+        "merged": "/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Wearable/build/intermediates/res/merged/debug/drawable-v21/generic_confirmation_animation.xml",
+        "source": "/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/drawable-v21/generic_confirmation_animation.xml"
+    },
+    {
+        "merged": "/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Wearable/build/intermediates/res/merged/debug/drawable-v21/open_on_phone.xml",
+        "source": "/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/drawable-v21/open_on_phone.xml"
+    }
+]

@@ -1,0 +1,2 @@
+CHANGED,/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Wearable/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/wearable/datalayer/GetDataFromHandheld$MessageReceiver$override.class
+CHANGED,/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Wearable/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

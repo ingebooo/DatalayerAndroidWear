@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Application/build/intermediates/res/merged/debug/layout/hello.xml",
+        "source": "/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Application/src/main/res/layout/hello.xml"
+    },
+    {
+        "merged": "/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Application/build/intermediates/res/merged/debug/layout/main_activity.xml",
+        "source": "/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Application/src/main/res/layout/main_activity.xml"
+    }
+]
