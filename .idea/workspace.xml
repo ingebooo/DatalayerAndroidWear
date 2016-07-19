@@ -67,14 +67,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListenerService.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ListenerService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/datalayer/ListenerService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64342314">
-              <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1755#1767#0" expanded="true" />
+                <element signature="e#1743#1751#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,23 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataMapParcelableUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/datalayer/DataMapParcelableUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GetDataFromHandheld.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GetDataFromHandheld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/datalayer/GetDataFromHandheld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.2614897">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -2446,11 +2434,11 @@
         <option value="$PROJECT_DIR$/Application/src/main/res/layout/menu_data_map.xml" />
         <option value="$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/datalayer/DataLayerListenerService.java" />
         <option value="$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/datalayer/MainActivity.java" />
-        <option value="$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/datalayer/GetDataFromHandheld.java" />
         <option value="$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/datalayer/DataMapParcelableUtils.java" />
         <option value="$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/datalayer/Points.java" />
         <option value="$PROJECT_DIR$/Application/src/main/java/com/example/android/wearable/datalayer/Handheld.java" />
         <option value="$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/datalayer/ListenerService.java" />
+        <option value="$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/datalayer/GetDataFromHandheld.java" />
       </list>
     </option>
   </component>
@@ -2562,6 +2550,7 @@
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="device.picker.selection" value="127.0.0.1:4444" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -3206,16 +3195,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/datalayer/DataMapParcelableUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/datalayer/Points.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3242,22 +3221,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/datalayer/GetDataFromHandheld.java">
+    <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/datalayer/ListenerService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
-          <folding />
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1743#1751#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/datalayer/ListenerService.java">
+    <entry file="file://$PROJECT_DIR$/Wearable/src/main/java/com/example/android/wearable/datalayer/GetDataFromHandheld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64342314">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1755#1767#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.2614897">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -4,35 +4,30 @@
     api-level="23"
     density="280dpi"
     format="7"
-    timestamp="274437179530868"
+    timestamp="280120864940202"
     token="-3186997474639950055" >
 
     <task
         name="javac"
-        duration="312" />
+        duration="199" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="16" />
+        duration="58" />
     <task
         name="verifier"
-        duration="2" />
+        duration="8" />
 
     <artifact
-        location="/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Wearable/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-        type="DEX" />
+        location="/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Wearable/build/outputs/apk/Wearable-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="274096495222902" >
+    <build timestamp="280120864940202" >
         <artifact
             location="/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Wearable/build/outputs/apk/Wearable-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="274437179530868" >
-        <artifact
-            location="/Users/ingeborgoftedal/AndroidStudioProjects/DataLayer/Wearable/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

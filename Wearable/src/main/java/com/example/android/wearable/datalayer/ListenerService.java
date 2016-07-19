@@ -45,26 +45,28 @@ public class ListenerService extends WearableListenerService {
         }
     }
     public void onPointsReceived(ArrayList<DataMap> list){
-        ArrayList<Parcelable> parcelableArrayList = new ArrayList<Parcelable>();
+
+        ArrayList<Intent> intentList = new ArrayList<Intent>();
 
         for(DataMap map : list){
-            Points points = new Points();
-            DataMapParcelableUtils.putParcelable(map, "user_id",points);
-            DataMapParcelableUtils.putParcelable(map, "route_id", points);
-            DataMapParcelableUtils.putParcelable(map, "latitude", points);
-            DataMapParcelableUtils.putParcelable(map, "longitude", points);
+            Intent intent = new Intent();
+            intent.setAction(Intent.ACTION_SEND);
+            intent.putExtra("user_id", map.getString("user_id"));
+            intent.putExtra("route_id", map.getString("route_id"));
+            intent.putExtra("latitude", map.getDouble("latitude"));
+            intent.putExtra("longitude", map.getDouble("longitude"));
+
+            intentList.add(intent);
         }
 
 
         Intent dataIntent = new Intent();
+
         dataIntent.setAction(Intent.ACTION_SEND);
 
-        dataIntent.putExtras(list.get(0).toBundle());
+        dataIntent.putParcelableArrayListExtra("pointsList", intentList);
 
         LocalBroadcastManager.getInstance(this).sendBroadcast(dataIntent);
-
-    }
-    public void fromDataMapToParcelable(ArrayList<DataMap> list){
 
     }
 }

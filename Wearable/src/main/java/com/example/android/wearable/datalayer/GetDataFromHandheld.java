@@ -33,6 +33,7 @@ public class GetDataFromHandheld extends Activity {
 
     private DataMap dataMap;
     private ArrayList<DataMap> points;
+    private ArrayList<Intent> intentList;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -51,9 +52,11 @@ public class GetDataFromHandheld extends Activity {
     public class MessageReceiver extends BroadcastReceiver {
         @Override
         public void onReceive(Context context, Intent intent) {
-            DataMap map = DataMap.fromBundle(intent.getExtras());
+
+            intentList = intent.getParcelableArrayListExtra("pointsList");
+            Log.v("points på plass 8", intentList.get(8).getStringExtra("user_id"));
             // Display message in UI
-            textView.setText(map.getInt("user_id") + "");
+            textView.setText(intentList.get(9).getStringExtra("user_id"));
         }
     }
 }
